@@ -75,6 +75,9 @@ Modules implemented:
 - Complex subtractor
 - Butterfly logic
 
+  <img width="681" height="483" alt="block_diagram" src="https://github.com/user-attachments/assets/2778624b-7221-4494-b5f9-a859725dddec" />
+
+
 ---
 
 ## 32-Point FFT Design
