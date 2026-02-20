@@ -53,6 +53,8 @@ The design is divided into the following core modules:
 - Controls data selection during read operations
 - Maintains proper stage-wise data flow
 
+<img width="681" height="483" alt="block_diagram" src="https://github.com/user-attachments/assets/2778624b-7221-4494-b5f9-a859725dddec" />
+
 ---
 
 ## Implementation Details
@@ -74,9 +76,6 @@ Modules implemented:
 - Complex adder
 - Complex subtractor
 - Butterfly logic
-
-  <img width="681" height="483" alt="block_diagram" src="https://github.com/user-attachments/assets/2778624b-7221-4494-b5f9-a859725dddec" />
-
 
 ---
 
